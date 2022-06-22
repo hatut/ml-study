@@ -1,0 +1,5 @@
+https://archive.ics.uci.edu/ml/datasets/Travel+Reviews
+https://archive.ics.uci.edu/ml/datasets/Facebook+Live+Sellers+in+Thailand
+https://archive.ics.uci.edu/ml/datasets/Online+Shoppers+Purchasing+Intention+Dataset
+https://archive.ics.uci.edu/ml/datasets/Tarvel+Review+Ratings
+https://archive.ics.uci.edu/ml/datasets/Turkiye+Student+Evaluation

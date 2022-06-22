@@ -1,0 +1,9 @@
+群公告
+作业题目：实现并测试K-means聚类算法
+作业要求：
+1. 实现K-means算法，采用三种不同初始化方法（见Lecture11-Clustering-K-Means第19页）得到三个不同版本。
+2. 在UCI Machine Learning Repository（https://archive.ics.uci.edu/ml/datasets.php）找到自己认为合适的5个数据集，进行如下分析：
+1）聚类个数设定为正确类个数情况下，三种不同初始化方法版本的聚类效果（用Normalized Mutual Information度量效果，见ANMI_analytical_11.m，非Matlab版本的度量方法同学们可以网上找到）。
+2）设置不同聚类个数K的情况下（如K=2, 3, 4, ..., n/2），三种不同初始化方法版本的“目标函数J随着聚类个数变化的曲线”（见Lecture11-Clustering-K-Means第17页）。
+3. 提交代码+数据集+详细实验报告及分析（编程语言不限、报告字数不限，需要透彻分析），压缩包提交：学号+姓名。
+4. 提交日期：5月1日。提交邮箱：sysumldm2022@163.com
